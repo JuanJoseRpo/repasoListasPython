@@ -25,7 +25,7 @@ clientesAsociados=[
 
 
 #y hora que hago con esto 
-# mi objetivo sera recorer la informacion de la lista
+# mi objetivo sera recorrer la informacion de la lista
 
 """ print(clientesAsosiados) """
 """ for i in  range(2):
@@ -33,7 +33,7 @@ clientesAsociados=[
     print(clientesAsosiados[i]["consumo"]) """
 
 # programemos un foreach que es un for 
-#especualisado en recorrer arreglos 
+#especualizado en recorrer arreglos 
 
 for cliente in clientesAsociados:
   print(cliente["consumo"]) 
